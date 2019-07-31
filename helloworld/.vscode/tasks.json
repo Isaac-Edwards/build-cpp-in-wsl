@@ -16,7 +16,7 @@
             "args": [
                 "-g",
                 "-o",
-                "/home/isaac_edwards/projects/helloworld/helloworld.out",
+                "/home/isaac_edwards/projects/build-cpp-in-wsl/helloworld/helloworld.out",
                 "helloworld.cpp"
             ],
             "group": {
